@@ -2,7 +2,9 @@
 """
 Created on Fri Jun 18 12:42:03 2021
 
-@author: Bharanish
+@author: Omer Sakarya
+
+url : https://github.com/arapfaik/scraping-glassdoor-selenium
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
